@@ -107,11 +107,12 @@ Question: What are the names of the legitimate translator and the malicious tran
 Finding:
 
 - Legitimate Translator: "yous.ai"
-- Malicious Translator: "volco.io"
+- Malicious Translator: "voico.io"
 
 Evidence:
 
 <img width="715" height="500" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/c8a3ff83-a65c-46d4-beab-fc8fef4e01b8" /> 
+
 
 <img width="771" height="729" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/9de8886f-46b3-4a5d-99df-b679028950dc" />
 
@@ -140,7 +141,7 @@ Q9 – Cryptocurrency Wallet
 Question: What is the address of the Ethereum cryptocurrency wallet used in this campaign?
 
 Finding:
-"0xaf0362e215f4e004f30e785e822f7e20b99723a"
+"0xaf0362e215Ff4e004F30e785e822F7E20b99723A"
 
 Evidence:
 
@@ -160,7 +161,7 @@ Download Function| downloadAndExtractArchive
 Malicious Translator| volco.io
 StealC C2 IP 1| 46.8.238.240
 StealC C2 IP 2| 23.94.225.177
-Ethereum Wallet| 0xaf0362e215f4e004f30e785e822f7e20b99723a
+Ethereum Wallet| 0xaf0362e215Ff4e004F30e785e822F7E20b99723A
 
 Conclusion
 
